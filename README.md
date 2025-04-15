@@ -50,6 +50,9 @@ This project is a deep learning-based system designed to detect diseases in mulb
 - **Training Accuracy**: ~97%
 - **Validation Accuracy**: ~95%
 
+## Data set 
+https://www.kaggle.com/datasets/nahiduzzaman13/mulberry-leaf-dataset
+
 ---
 
 ## 📁 Project Structure
